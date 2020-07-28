@@ -1,0 +1,4 @@
+# alita
+
+gitbook可以与github很好的连接，github上创建一个仓库即可用作gitbook的温床，在gitbook editor上的改动都可以push到github，仅仅只需要通过http连接将二者联系起来，这是熟悉的节奏，也是程序员一直追求的优雅。 一行行的command有的时候需要可视化来进行调剂，以来安慰我们骚动的鼠标。gitbook editor就很好的满足的这个需求。
+
